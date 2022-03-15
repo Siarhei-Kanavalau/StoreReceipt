@@ -1,4 +1,4 @@
-package com.clevertec.task;
+package ru.clevertec;
 
 public enum DiscountCard {
     /**База дисконтных карт*/

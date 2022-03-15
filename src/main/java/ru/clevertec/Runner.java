@@ -1,5 +1,4 @@
-import com.clevertec.task.InputCheck;
-import com.clevertec.task.OutputCheck;
+package ru.clevertec;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

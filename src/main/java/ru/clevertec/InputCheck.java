@@ -1,4 +1,4 @@
-package com.clevertec.task;
+package ru.clevertec;
 
 import java.io.BufferedReader;
 import java.io.IOException;

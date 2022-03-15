@@ -1,4 +1,4 @@
-package com.clevertec.task;
+package ru.clevertec;
 
 public enum Purchase {
     /** База продуктов*/
@@ -22,7 +22,7 @@ public enum Purchase {
     private double price; //цена товара
     protected boolean discount; // акция на товар true/false
 
-    // конструктор
+    // constructor
     Purchase(String name, int id, double price, boolean discount) {
         this.name = spaceCreate(name);
         this.id = id;

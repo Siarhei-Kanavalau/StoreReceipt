@@ -1,4 +1,4 @@
-package com.clevertec.task;
+package ru.clevertec;
 
 import java.io.*;
 import java.text.SimpleDateFormat;
